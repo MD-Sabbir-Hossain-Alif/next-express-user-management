@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import UserList from "../components/UserList";
+import UserList from "../../components/UserList";
 
 // const usersPromise = fetch('').then(res => res.json())
 
